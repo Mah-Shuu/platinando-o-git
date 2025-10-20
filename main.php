@@ -1,3 +1,3 @@
-<?php 
-echo "teste";
+<?php
+echo "eu amo roblox";
 ?>
